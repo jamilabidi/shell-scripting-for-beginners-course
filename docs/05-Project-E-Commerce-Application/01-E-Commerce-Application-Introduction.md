@@ -53,7 +53,7 @@ The KodeKloud e-commerce website is a fictional online store that sells electron
      MariaDB > CREATE DATABASE ecomdb;
      MariaDB > CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
      MariaDB > GRANT ALL PRIVILEGES ON *.* TO 'ecommuser'@'localhost';
-     MariaDB > FLUSH PRIVILAGES;
+     MariaDB > FLUSH PRIVILEGES;
      ```
    - Load Inventory Data
      ```
